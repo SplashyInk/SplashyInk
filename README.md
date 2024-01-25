@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SplashyInk
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Java and C#
+- 😄 Pronouns: Any Pronouns
+- ⚡ Fun fact: I also work on art and illustration!
